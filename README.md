@@ -33,5 +33,5 @@ This project is a simplified version of the classic **Flappy Bird** game, built 
 
 
 ![Screenshot 2024-12-04 183534](https://github.com/user-attachments/assets/e78619ad-ed77-4d6f-a6aa-642b3779a504)
-![Screenshot 2024-12-04 183543](https://github.com/user-attachments/assets/b600f3b8-3e53-48b0-bf9a-05b5bc5e37a1)
 ![Screenshot 2024-12-04 183520](https://github.com/user-attachments/assets/1f4328cc-bb5e-40a9-9e5e-767f5b23cc4a)
+![Screenshot 2024-12-04 183543](https://github.com/user-attachments/assets/b600f3b8-3e53-48b0-bf9a-05b5bc5e37a1)
